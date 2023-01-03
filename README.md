@@ -1,2 +1,2 @@
-# Web Development Prjoect #1
+# Web Development Project #1
 Calculator App build with React Js Frontend
